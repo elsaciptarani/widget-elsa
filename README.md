@@ -1,4 +1,6 @@
 # uaselsa
+NAMA : ELSA CIPTARANI
+NPM : 213510264
 
 ## Project setup
 ```
